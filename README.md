@@ -1,3 +1,5 @@
+https://ayush4398.github.io/Simon-game/
+
 # Simon-game
 
 How to paly guide
