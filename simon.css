@@ -1,0 +1,64 @@
+body{
+  text-align: center;
+  background: linear-gradient(
+    to right,
+    #194350 0%,
+    #94d0cc 100%
+    )
+}
+h1{
+  font-size: 45px;
+}
+h4{
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+
+#howtoplay{
+  text-align: justify;
+  margin: 200px 300px;
+}
+h2:hover {
+  color: #fff;
+  transform: scale(1.5);
+  cursor: pointer;
+}
+h3:hover{
+  color: #fff;
+  transform: scale(1.5);
+  cursor: pointer;
+}
+.btn{
+  margin: 10px;
+  border: 10px solid black;
+  border-radius: 20%;
+  width: 250px;
+  height: 250px;
+}
+.blue{
+  background-color: #3d84b8;
+
+}
+.green{
+  background-color: #34656d;
+}
+.red{
+  background-color: #962d2d;
+}
+.yellow{
+  background-color: #cc9b6d;
+}
+.opac{
+  opacity: 0.3;
+}
+
+@media (max-width:1000px) {
+  .btn{
+    width: 200px;
+    height: 180px;
+  }
+
+}
