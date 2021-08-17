@@ -23,7 +23,6 @@ a{
 }
 h2:hover {
   color: #fff;
-  transform: scale(1.5);
   cursor: pointer;
 }
 h3:hover{
